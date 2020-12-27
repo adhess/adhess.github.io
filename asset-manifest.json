@@ -1,27 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.86065d62.chunk.css",
-    "main.js": "/static/js/main.f1a3d68b.chunk.js",
-    "main.js.map": "/static/js/main.f1a3d68b.chunk.js.map",
+    "main.css": "/static/css/main.6ad144be.chunk.css",
+    "main.js": "/static/js/main.03a71024.chunk.js",
+    "main.js.map": "/static/js/main.03a71024.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.5982917c.chunk.js": "/static/js/2.5982917c.chunk.js",
-    "static/js/2.5982917c.chunk.js.map": "/static/js/2.5982917c.chunk.js.map",
+    "static/js/2.15f596e7.chunk.js": "/static/js/2.15f596e7.chunk.js",
+    "static/js/2.15f596e7.chunk.js.map": "/static/js/2.15f596e7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bfa49725612c1e4d210b2bcab32f77bd.js": "/precache-manifest.bfa49725612c1e4d210b2bcab32f77bd.js",
+    "precache-manifest.90ff062441477d81c2a1e162e50756f8.js": "/precache-manifest.90ff062441477d81c2a1e162e50756f8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.86065d62.chunk.css.map": "/static/css/main.86065d62.chunk.css.map",
-    "static/js/2.5982917c.chunk.js.LICENSE.txt": "/static/js/2.5982917c.chunk.js.LICENSE.txt",
+    "static/css/main.6ad144be.chunk.css.map": "/static/css/main.6ad144be.chunk.css.map",
+    "static/js/2.15f596e7.chunk.js.LICENSE.txt": "/static/js/2.15f596e7.chunk.js.LICENSE.txt",
+    "static/media/SaveDataMocket.png": "/static/media/SaveDataMocket.87707df0.png",
     "static/media/Untitled.png": "/static/media/Untitled.748c31d0.png",
     "static/media/footer-white-mask.png": "/static/media/footer-white-mask.1d3d4d71.png",
+    "static/media/goToSource.gif": "/static/media/goToSource.6c030910.gif",
     "static/media/header-white-mask.png": "/static/media/header-white-mask.6517bd8b.png",
     "static/media/med-yassine-ben-khalifa.png": "/static/media/med-yassine-ben-khalifa.a237bdce.png",
-    "static/media/responsive.png": "/static/media/responsive.9c70d3de.png"
+    "static/media/myFlat.png": "/static/media/myFlat.1a19e2a9.png",
+    "static/media/offerTn.png": "/static/media/offerTn.757bfbf8.png",
+    "static/media/responsive.png": "/static/media/responsive.9c70d3de.png",
+    "static/media/supplierPortal.png": "/static/media/supplierPortal.2e000ced.png"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.5982917c.chunk.js",
-    "static/css/main.86065d62.chunk.css",
-    "static/js/main.f1a3d68b.chunk.js"
+    "static/js/2.15f596e7.chunk.js",
+    "static/css/main.6ad144be.chunk.css",
+    "static/js/main.03a71024.chunk.js"
   ]
 }
