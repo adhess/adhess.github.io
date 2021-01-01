@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.20481586.chunk.css",
-    "main.js": "/static/js/main.bd67f715.chunk.js",
-    "main.js.map": "/static/js/main.bd67f715.chunk.js.map",
+    "main.css": "/static/css/main.3299a724.chunk.css",
+    "main.js": "/static/js/main.d1e8f6c9.chunk.js",
+    "main.js.map": "/static/js/main.d1e8f6c9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.d6bc65f9.chunk.js": "/static/js/2.d6bc65f9.chunk.js",
-    "static/js/2.d6bc65f9.chunk.js.map": "/static/js/2.d6bc65f9.chunk.js.map",
+    "static/js/2.00fdab1c.chunk.js": "/static/js/2.00fdab1c.chunk.js",
+    "static/js/2.00fdab1c.chunk.js.map": "/static/js/2.00fdab1c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6a6872577d6f297401732393a6f4b8ea.js": "/precache-manifest.6a6872577d6f297401732393a6f4b8ea.js",
+    "precache-manifest.8e47f7811b10627f118e791868889a03.js": "/precache-manifest.8e47f7811b10627f118e791868889a03.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.20481586.chunk.css.map": "/static/css/main.20481586.chunk.css.map",
-    "static/js/2.d6bc65f9.chunk.js.LICENSE.txt": "/static/js/2.d6bc65f9.chunk.js.LICENSE.txt",
+    "static/css/main.3299a724.chunk.css.map": "/static/css/main.3299a724.chunk.css.map",
+    "static/js/2.00fdab1c.chunk.js.LICENSE.txt": "/static/js/2.00fdab1c.chunk.js.LICENSE.txt",
     "static/media/ENISo.png": "/static/media/ENISo.fcdea9ec.png",
     "static/media/IPEIM.png": "/static/media/IPEIM.3afe40c3.png",
     "static/media/IbnSina.png": "/static/media/IbnSina.bebc1f86.png",
     "static/media/SaveDataMocket.jpg": "/static/media/SaveDataMocket.0e4b05fb.jpg",
-    "static/media/Untitled.png": "/static/media/Untitled.748c31d0.png",
+    "static/media/floatin_tech.b2f14afd.svg": "/static/media/floatin_tech.b2f14afd.svg",
     "static/media/footer-white-mask.png": "/static/media/footer-white-mask.1d3d4d71.png",
     "static/media/goToSource.gif": "/static/media/goToSource.6c030910.gif",
     "static/media/great_power.png": "/static/media/great_power.453ebfb4.png",
@@ -34,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.d6bc65f9.chunk.js",
-    "static/css/main.20481586.chunk.css",
-    "static/js/main.bd67f715.chunk.js"
+    "static/js/2.00fdab1c.chunk.js",
+    "static/css/main.3299a724.chunk.css",
+    "static/js/main.d1e8f6c9.chunk.js"
   ]
 }
