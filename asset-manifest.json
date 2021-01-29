@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.feeba90c.chunk.css",
-    "main.js": "/static/js/main.acfcd84a.chunk.js",
-    "main.js.map": "/static/js/main.acfcd84a.chunk.js.map",
+    "main.css": "/static/css/main.90f32b87.chunk.css",
+    "main.js": "/static/js/main.738861cc.chunk.js",
+    "main.js.map": "/static/js/main.738861cc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.576c7373.chunk.js": "/static/js/2.576c7373.chunk.js",
-    "static/js/2.576c7373.chunk.js.map": "/static/js/2.576c7373.chunk.js.map",
+    "static/js/2.ca9aabea.chunk.js": "/static/js/2.ca9aabea.chunk.js",
+    "static/js/2.ca9aabea.chunk.js.map": "/static/js/2.ca9aabea.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.841b0a31caf7057909ac8c2a59f1eb90.js": "/precache-manifest.841b0a31caf7057909ac8c2a59f1eb90.js",
+    "precache-manifest.52578532c36c6e9c60eec129896efe47.js": "/precache-manifest.52578532c36c6e9c60eec129896efe47.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.feeba90c.chunk.css.map": "/static/css/main.feeba90c.chunk.css.map",
-    "static/js/2.576c7373.chunk.js.LICENSE.txt": "/static/js/2.576c7373.chunk.js.LICENSE.txt",
+    "static/css/main.90f32b87.chunk.css.map": "/static/css/main.90f32b87.chunk.css.map",
+    "static/js/2.ca9aabea.chunk.js.LICENSE.txt": "/static/js/2.ca9aabea.chunk.js.LICENSE.txt",
     "static/media/ENISo.png": "/static/media/ENISo.fcdea9ec.png",
     "static/media/IPEIM.png": "/static/media/IPEIM.3afe40c3.png",
     "static/media/IbnSina.png": "/static/media/IbnSina.bebc1f86.png",
@@ -19,23 +19,21 @@
     "static/media/Untitled.png": "/static/media/Untitled.748c31d0.png",
     "static/media/footer-white-mask.png": "/static/media/footer-white-mask.1d3d4d71.png",
     "static/media/goToSource.gif": "/static/media/goToSource.6c030910.gif",
-    "static/media/great_power.png": "/static/media/great_power.453ebfb4.png",
     "static/media/header-white-mask.png": "/static/media/header-white-mask.6517bd8b.png",
     "static/media/hover.png": "/static/media/hover.02b81621.png",
-    "static/media/life.png": "/static/media/life.f8d0af16.png",
+    "static/media/life.png": "/static/media/life.a030ef55.png",
     "static/media/med-yassine-ben-khalifa.jpg": "/static/media/med-yassine-ben-khalifa.382b3182.jpg",
     "static/media/myFlat.jpg": "/static/media/myFlat.0112dd92.jpg",
     "static/media/offerTn.jpg": "/static/media/offerTn.a0aef6eb.jpg",
     "static/media/responsive.png": "/static/media/responsive.9c70d3de.png",
     "static/media/shifu.png": "/static/media/shifu.e23bc421.png",
     "static/media/supplierPortal.jpg": "/static/media/supplierPortal.4040516f.jpg",
-    "static/media/war.png": "/static/media/war.d59b09d3.png",
     "static/media/welcomeTo.png": "/static/media/welcomeTo.f796144d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.576c7373.chunk.js",
-    "static/css/main.feeba90c.chunk.css",
-    "static/js/main.acfcd84a.chunk.js"
+    "static/js/2.ca9aabea.chunk.js",
+    "static/css/main.90f32b87.chunk.css",
+    "static/js/main.738861cc.chunk.js"
   ]
 }
