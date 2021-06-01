@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c96c8d27bdd3a25de66e5ed4f697ffa",
+    "revision": "bad1bf9224cadd4db009df9870520c44",
     "url": "/index.html"
   },
   {
-    "revision": "a3c7cd6f1a0679778660",
-    "url": "/static/css/main.e6816c40.chunk.css"
+    "revision": "aa439d92a5852d26cde3",
+    "url": "/static/css/main.b7a41e93.chunk.css"
   },
   {
-    "revision": "ef5ba40e269b1a3bf190",
-    "url": "/static/js/2.ca9aabea.chunk.js"
+    "revision": "e3f4bc31bb4a933099dd",
+    "url": "/static/js/2.996c3133.chunk.js"
   },
   {
     "revision": "c9dd85361cb9cef9841c7e9bd1147de5",
-    "url": "/static/js/2.ca9aabea.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.996c3133.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a3c7cd6f1a0679778660",
-    "url": "/static/js/main.14fd669a.chunk.js"
+    "revision": "aa439d92a5852d26cde3",
+    "url": "/static/js/main.b7a3dd52.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Untitled.748c31d0.png"
   },
   {
+    "revision": "9040c9cb349c4634cbbb0cf8ec2822e4",
+    "url": "/static/media/cg.9040c9cb.png"
+  },
+  {
     "revision": "1d3d4d719f4d81a333ef4bd7bacd1bde",
     "url": "/static/media/footer-white-mask.1d3d4d71.png"
   },
@@ -56,14 +60,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/header-white-mask.6517bd8b.png"
   },
   {
-    "revision": "02b81621036fcb9718b62450d3ca119b",
-    "url": "/static/media/hover.02b81621.png"
-  },
-  {
-    "revision": "a030ef55fc88e9a4b88dafe069f68138",
-    "url": "/static/media/life.a030ef55.png"
-  },
-  {
     "revision": "382b3182ae1365116ade7bde221c27a3",
     "url": "/static/media/med-yassine-ben-khalifa.382b3182.jpg"
   },
@@ -72,16 +68,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/myFlat.0112dd92.jpg"
   },
   {
-    "revision": "a0aef6eb16f4a6ccb8ec441510e67f10",
-    "url": "/static/media/offerTn.a0aef6eb.jpg"
+    "revision": "20de0dde7c1af85d0b681a5cd8bef323",
+    "url": "/static/media/offerTn.20de0dde.jpg"
   },
   {
-    "revision": "9c70d3dea48265235b128870acbf9fc9",
-    "url": "/static/media/responsive.9c70d3de.png"
-  },
-  {
-    "revision": "e23bc42135ef983a8eaa63e054fedb75",
-    "url": "/static/media/shifu.e23bc421.png"
+    "revision": "c419e0fe66718bb04e5db9595a8acf5b",
+    "url": "/static/media/springChallenge2021.c419e0fe.png"
   },
   {
     "revision": "4040516f96e3e44d2f76e60ce4bdf82c",
