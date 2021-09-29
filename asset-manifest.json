@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7a41e93.chunk.css",
-    "main.js": "/static/js/main.b7a08163.chunk.js",
-    "main.js.map": "/static/js/main.b7a08163.chunk.js.map",
+    "main.css": "/static/css/main.fb5dfb77.chunk.css",
+    "main.js": "/static/js/main.ddac734b.chunk.js",
+    "main.js.map": "/static/js/main.ddac734b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.996c3133.chunk.js": "/static/js/2.996c3133.chunk.js",
-    "static/js/2.996c3133.chunk.js.map": "/static/js/2.996c3133.chunk.js.map",
+    "static/js/2.3505a4f8.chunk.js": "/static/js/2.3505a4f8.chunk.js",
+    "static/js/2.3505a4f8.chunk.js.map": "/static/js/2.3505a4f8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.61dff53c74afdbd7fee9fc0b937738d8.js": "/precache-manifest.61dff53c74afdbd7fee9fc0b937738d8.js",
+    "precache-manifest.daeccd9b707d186f7146080319ab3410.js": "/precache-manifest.daeccd9b707d186f7146080319ab3410.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b7a41e93.chunk.css.map": "/static/css/main.b7a41e93.chunk.css.map",
-    "static/js/2.996c3133.chunk.js.LICENSE.txt": "/static/js/2.996c3133.chunk.js.LICENSE.txt",
+    "static/css/main.fb5dfb77.chunk.css.map": "/static/css/main.fb5dfb77.chunk.css.map",
+    "static/js/2.3505a4f8.chunk.js.LICENSE.txt": "/static/js/2.3505a4f8.chunk.js.LICENSE.txt",
     "static/media/ENISo.png": "/static/media/ENISo.fcdea9ec.png",
     "static/media/IPEIM.png": "/static/media/IPEIM.3afe40c3.png",
     "static/media/IbnSina.png": "/static/media/IbnSina.bebc1f86.png",
     "static/media/SaveDataMocket.jpg": "/static/media/SaveDataMocket.0e4b05fb.jpg",
-    "static/media/Untitled.png": "/static/media/Untitled.748c31d0.png",
+    "static/media/Untitled.png": "/static/media/Untitled.50d5ed37.png",
     "static/media/cg.png": "/static/media/cg.9040c9cb.png",
     "static/media/footer-white-mask.png": "/static/media/footer-white-mask.1d3d4d71.png",
     "static/media/goToSource.gif": "/static/media/goToSource.6c030910.gif",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.996c3133.chunk.js",
-    "static/css/main.b7a41e93.chunk.css",
-    "static/js/main.b7a08163.chunk.js"
+    "static/js/2.3505a4f8.chunk.js",
+    "static/css/main.fb5dfb77.chunk.css",
+    "static/js/main.ddac734b.chunk.js"
   ]
 }
