@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72f8642b0efe1459fd404964dac7b261",
+    "revision": "79eb807100b3d7edc075cc47b8ebc0cf",
     "url": "/index.html"
   },
   {
-    "revision": "d5b905dcd4748db5ac39",
-    "url": "/static/css/2.799c978e.chunk.css"
+    "revision": "ef0720489e963c92d007",
+    "url": "/static/css/2.e6d2f6ae.chunk.css"
   },
   {
-    "revision": "e8d6364e763c3829271d",
-    "url": "/static/css/main.307fdc69.chunk.css"
+    "revision": "66ba41e5e810253dac6c",
+    "url": "/static/css/main.d249ab8f.chunk.css"
   },
   {
-    "revision": "d5b905dcd4748db5ac39",
-    "url": "/static/js/2.4bb70cd3.chunk.js"
+    "revision": "ef0720489e963c92d007",
+    "url": "/static/js/2.285ae46f.chunk.js"
   },
   {
-    "revision": "c9dd85361cb9cef9841c7e9bd1147de5",
-    "url": "/static/js/2.4bb70cd3.chunk.js.LICENSE.txt"
+    "revision": "11c0186b73efead8f7c832028559e4c1",
+    "url": "/static/js/2.285ae46f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8d6364e763c3829271d",
-    "url": "/static/js/main.94bf949c.chunk.js"
+    "revision": "ae97c65ac00f5368e8ba",
+    "url": "/static/js/3.1d008530.chunk.js"
   },
   {
-    "revision": "4f2b1704eab49d50853b",
-    "url": "/static/js/runtime-main.19ccc7f6.js"
+    "revision": "66ba41e5e810253dac6c",
+    "url": "/static/js/main.df9c6344.chunk.js"
+  },
+  {
+    "revision": "c5ee730c5ae22738fcf8",
+    "url": "/static/js/runtime-main.4c5f2b33.js"
   },
   {
     "revision": "3684dce82ef2ecafd88e5c25f3420363",
@@ -34,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1f0d7000e47a30af6db5c535f205d40d",
     "url": "/static/media/1.1f0d7000.png"
+  },
+  {
+    "revision": "47d30e8edca9dfd3f242f166cdee0b12",
+    "url": "/static/media/1675629337053.47d30e8e.jpeg"
   },
   {
     "revision": "f89343afed1a88cd33389fe04817cd79",
@@ -62,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0e4b05fbcf30ac4873ec34f68ca1332d",
     "url": "/static/media/SaveDataMocket.0e4b05fb.jpg"
-  },
-  {
-    "revision": "08743a6c293b275f2fc706fc3c7c750b",
-    "url": "/static/media/Untitled.08743a6c.png"
   },
   {
     "revision": "a912d0b69f25197c3bcc7a4460cffe06",
@@ -108,10 +112,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/offerTn.20de0dde.jpg"
   },
   {
-    "revision": "ffb7dfa50b3a6e31e1806519b6acaced",
-    "url": "/static/media/pfe_pic.ffb7dfa5.jpg"
-  },
-  {
     "revision": "db090de0c43f7b43015d172b56445f99",
     "url": "/static/media/self-employed.db090de0.jpg"
   },
@@ -122,6 +122,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4040516f96e3e44d2f76e60ce4bdf82c",
     "url": "/static/media/supplierPortal.4040516f.jpg"
+  },
+  {
+    "revision": "101d47c7df7cc88b52a7624f5e659eb6",
+    "url": "/static/media/thalesBackground.101d47c7.jpeg"
+  },
+  {
+    "revision": "7562f1bb8fdbb9b8f6255c93816f6fd4",
+    "url": "/static/media/thalesLogo.7562f1bb.png"
   },
   {
     "revision": "badda042dafee0c3e9823eb10369929b",
